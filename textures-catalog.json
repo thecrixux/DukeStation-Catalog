@@ -1,28 +1,31 @@
 {
-    "schemaVersion":  1,
-    "entries":  [
-                    {
-                        "id":  "test-pack",
-                        "name":  "[TEST] Catalog check (changes nothing)",
-                        "gameTitle":  "Metal Gear Solid",
-                        "serials":  [
-                                        "SLUS-00594"
-                                    ],
-                        "version":  "1.0",
-                        "authors":  [
-                                        "DukeStation"
-                                    ],
-                        "credits":  "",
-                        "description":  "Tiny test pack used to check that the catalog download works. It does not replace any texture.",
-                        "downloadUrl":  "https://raw.githubusercontent.com/thecrixux/DukeStation-Catalog/main/packs/test-pack.zip",
-                        "sourceUrl":  "https://github.com/thecrixux/DukeStation-Catalog",
-                        "license":  "Public domain",
-                        "sizeBytes":  417,
-                        "sha256":  "FC6B53B1DCFA0A7511E3623CF6E99E4FE01A13C0D2790AD99DEB69C72BDA2D8A",
-                        "fileCount":  1,
-                        "previewUrls":  [
-
-                                        ]
-                    }
-                ]
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "test-pack",
+      "name": "[TEST] Catalog check (changes nothing)",
+      "gameTitle": "Test (SotN, Tekken 3, Silent Hill)",
+      "serials": [
+        "SLUS-00067",
+        "SLES-00524",
+        "SLUS-00402",
+        "SCES-01237",
+        "SLUS-00707",
+        "SLES-01514"
+      ],
+      "version": "1.0",
+      "authors": [
+        "DukeStation"
+      ],
+      "credits": "",
+      "description": "Tiny test pack used to check that the catalog download works. It does not replace any texture.",
+      "downloadUrl": "https://raw.githubusercontent.com/thecrixux/DukeStation-Catalog/main/packs/test-pack.zip",
+      "sourceUrl": "https://github.com/thecrixux/DukeStation-Catalog",
+      "license": "Public domain",
+      "sizeBytes": 417,
+      "sha256": "FC6B53B1DCFA0A7511E3623CF6E99E4FE01A13C0D2790AD99DEB69C72BDA2D8A",
+      "fileCount": 1,
+      "previewUrls": []
+    }
+  ]
 }
